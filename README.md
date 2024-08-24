@@ -2,8 +2,8 @@
 Classification of the sentiment of tweets in the Sentiment140 dataset using Recurrent Neural Networks (RNNs).
 
 # About the project
-Classification of the sentiment (positive / negative) of tweets in the Sentiment140 dataset using RNNx.
-This is a Google Colab notebook to analyze and classify the sentiment of tweets in the Sentiment140 dataset. The data is first cleaned, normlized, and preprocessed. RNNs are used to implement the model for the binary classification of text. Training is performed across Tensor Processing Unit (TPU) cores using TensorFlow's distributed computing setup for TPUs. The model performs fairly well and achieves an accuracy of about 81%%.
+Classification of the sentiment (positive / negative) of tweets in the Sentiment140 dataset using RNNs.
+This is a Google Colab notebook to analyze and classify the sentiment of tweets in the Sentiment140 dataset. The data is first cleaned, normlized, and preprocessed. RNNs are used to implement the model for the binary classification of text. Training is performed across Tensor Processing Unit (TPU) cores using TensorFlow's distributed computing setup for TPUs. The model performs fairly well and achieves an accuracy of about 81%.
 
 # Tools Used
 Tools and libraries used in this project include TensorFlow, Keras, pandas, csv, NumPy, scikit-learn, Matplotlib, and seaborn.
