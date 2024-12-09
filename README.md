@@ -15,7 +15,7 @@ Anyone can use the project to get started with the basics of sentiment analysis 
 Anyone interested in getting started with Machine Learning, Deep Learning, or Natural Language Processing, specifically, sentiment analysis or binary classification using text data and RNNs and TensorFlow, can clone or download the project to get started.
 
 # References
-I have leveraged ChatGPT for guidance in terms of some concepts and to clarify doubts, both theoretical and code-based. However, I did not use ChatGPT to generate code. The most important points of reference for the project are as follows.
+The most important points of reference for the project are as follows.
 1. TensorFlow tutorial about using RNNs to perform sentiment analysis. Link [here](https://www.tensorflow.org/text/tutorials/text_classification_rnn).
 2. TensorFlow tutorial about using basic text classification to perform sentiment analysis. Link [here](https://www.tensorflow.org/tutorials/keras/text_classification).
 
